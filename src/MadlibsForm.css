@@ -1,0 +1,15 @@
+form {
+    text-align: center;
+    display: block;
+}
+
+input { 
+    /* display: flex; */
+    display: block;
+    padding:5px;
+    margin:5px;
+    border-radius: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
